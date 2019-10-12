@@ -1,0 +1,70 @@
+body{
+  background: rgb(253,253,253);
+  color: black;
+  font-size: 20px;
+  font-family: Raleway;
+  text-align: center
+}
+h1{
+  font-family: Raleway;
+  color: black;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h2 {
+  font-family: Indie flower;
+  color: pink;
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: pink;
+}
+
+#banner{
+  text-align: left;
+  background-image: url(laptop3.jpg);
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 15px;
+  background: gray;
+  color: white;
+  margin-top: 70px
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  margin-top: 30px
+}
+
+#footer a {
+  color: white;
+  font-size: 20px;
+}
+#footer a:hover {
+  color: purple;
+}
+
+#something {
+font-size: 10px
+}
